@@ -18,7 +18,7 @@
 
 This is **Rahul**.
 
-I'm currently a 2nd year college student and I'm doing my Bachelor's degree in CSE.
+I'm currently a 2nd year college student pursuing Bachelor's degree in CSE with specializtion in Cyber Security .
 
 If you want to contribute or if you have **suggestion**, please, send a **Pull Request** to this Project!
 
@@ -26,5 +26,5 @@ If you want to contribute or if you have **suggestion**, please, send a **Pull R
 
 Just check my **twitter**: [https://www.twitter.com/0xdarksaber](https://www.twitter.com/0xdarksaber/)
 
-If you find this project then, please consider **supporting it!**
+If you find this project helpful then, please consider **supporting it!**
 
